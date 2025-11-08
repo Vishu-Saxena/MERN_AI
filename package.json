@@ -1,0 +1,24 @@
+{
+  "name": "mern_ai",
+  "version": "1.0.0",
+  "main": "LLM.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vishu-Saxena/MERN_AI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vishu-Saxena/MERN_AI/issues"
+  },
+  "homepage": "https://github.com/Vishu-Saxena/MERN_AI#readme",
+  "description": "",
+  "dependencies": {
+    "@google/genai": "^1.29.0",
+    "readline-sync": "^1.4.10"
+  }
+}
